@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a new Auction House interface using React and TypeScript**
 - 🌱 I'm currently learning: **📚 Exploring React and TypeScript**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and Python**
-- 📂 Portfolio: **<a href="jaggedgem.tech" target="_blank">jaggedgem.tech</a>**
+- 📂 Portfolio: **<a href="https://jaggedgem.tech" target="_blank">jaggedgem.tech</a>**
 
  **<h3 align="left">Skills</h3>**
 
