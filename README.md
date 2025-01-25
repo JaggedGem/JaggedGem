@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/JaggedGem" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="bogdan@jaggedgem.tech" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center"><a href="https://github.com/JaggedGem" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="bogdan@jagged.me" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">I'm a passionate and versatile developer with a strong foundation in Python, TypeScript, and JavaScript. I enjoy exploring different areas of software development and am always eager to learn new technologies. Currently, I'm fascinated by the intersection of web development and gaming, as demonstrated by my recent project. I'm driven to become a successful and respected figure in the development world. I believe in continuous learning and strive to improve my skills with every project I undertake.</h3>**
 
