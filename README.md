@@ -19,10 +19,10 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new Auction House interface using React and TypeScript**
-- 🌱 I'm currently learning: **📚 Exploring React and TypeScript**
+- 💼 I'm currently working on: **💻 Developing a new School Scheduling App using React Native, Expo and TypeScript**
+- 🌱 I'm currently learning: **📚 Exploring React Native and TypeScript**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and Python**
-- 📂 Portfolio: **<a href="https://jaggedgem.tech" target="_blank">jaggedgem.tech</a>**
+- 📂 Portfolio: **<a href="https://jagged.me" target="_blank">jagged.me</a>**
 
  **<h3 align="left">Skills</h3>**
 
@@ -31,8 +31,8 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=jaggedgem&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaggedgem&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<!--   <img width="48%" src="https://streak-stats.demolab.com/?user=jaggedgem&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaggedgem&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" /> 
 </p>
 
  **<h3 align="left">Support Me</h3>**
